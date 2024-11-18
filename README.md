@@ -1,4 +1,3 @@
 # Amazon
 
-## Demo
-https://mahmoudabuyousef.github.io/Amazon/
+## [Demo Link](https://mahmoud-abuyoussef.github.io/Amazon/)
